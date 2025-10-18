@@ -1,0 +1,6 @@
+@sistema_de_inventario_y_ventas_HostAddress = http://localhost:5108
+
+GET {{sistema_de_inventario_y_ventas_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
